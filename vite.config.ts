@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 // https://vitejs.dev/config/
-// Hong Yi version
+// Hong Yi version (test2)
 export default defineConfig({
   plugins: [react()],
   resolve: {
